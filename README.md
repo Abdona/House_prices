@@ -4,7 +4,7 @@
 
 ## Built With
 
-- sckitlearn
+- scikitlearn
 - matplotlib
 - NumPy
 - pandas

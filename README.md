@@ -1,10 +1,6 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # House prices
 
 > Train a model to learn how to predict the prices of houses.
-
-Additional description of the project and its features.
 
 ## Built With
 
@@ -15,11 +11,11 @@ Additional description of the project and its features.
 
 ## Authors
 
-👤 **Author1**
+👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/Abdona)
+- Kaggle: [@Kaggle](https://www.kaggle.com/abdulrahmannaser)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abdulrahmannaserelawady/)
 
 ## Show your support
 
